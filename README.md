@@ -1,0 +1,1 @@
+scraping from ship66, stimulate this action of browse. first option was search those MMSI from marintraffic, but this site have a really strong anti-scraping system(at least for rookie like me). so i have to change a site : )
